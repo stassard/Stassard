@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 Обо мне:
+### 👨‍💻 About me:
 
 I'm a Software Tester and I get pleasure from field of Quality Assurance and always improve my knowledge and expand me professional horizons
 
