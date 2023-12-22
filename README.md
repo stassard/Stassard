@@ -50,10 +50,11 @@ I'm a Software Tester and I get pleasure from field of Quality Assurance and alw
 
 ---
 
-### 💾 Automation Testing:
+### 🛠 Automation Testing:
 
 <div>
-  <img src="/Playwright - png.png" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <img src="/assets/Playwright - png.png" title="playwright" alt="playwright" width="40" height="40"/>&nbsp
+  <img src="/assets/Katalon - jpeg.png" title="katalon" alt="katalon" width="40" height="40"/>&nbsp
 
 </div>
 
