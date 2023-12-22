@@ -63,8 +63,6 @@ I'm a Software Tester and I get pleasure from field of Quality Assurance and alw
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-<img src="  https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-
 </div>
 
 ---
