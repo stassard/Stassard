@@ -82,10 +82,9 @@ I'm a Software Tester and I get pleasure from field of Quality Assurance and alw
 ### My Test Documentation:
 
 - [Checklists](https://docs.google.com/spreadsheets/d/1rDwP5PXq5NH44r6ZGl8Nsyw-DhlKFB4vhmcVpwG6Kpw/edit?usp=sharing)
-- [Test-Suites and Test-Cases(RUS)](https://docs.google.com/spreadsheets/d/1f9cydSAyRJtZB_FC1faNK26e5UdV1o5pFYE62cBbZys/edit?usp=sharing)
-- [Test-Suites and Test-Cases(ENG)](https://docs.google.com/spreadsheets/d/1xlfOQIFHpDEja6f0TD_Mu8Nhy7P-C_8uMSFkdc8ywGs/edit?usp=sharing)
+- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1f9cydSAyRJtZB_FC1faNK26e5UdV1o5pFYE62cBbZys/edit?usp=sharing)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/19wu4K8JGA5eWAnamebpUd4_96WnXbK3tv0L4xXA2sc0/edit?usp=sharing)
-- [Test-Report(RUS Template)](https://docs.google.com/spreadsheets/d/15DvsSwbdiOV2GxDZa2_s12mTtFgFe9kLCO6h2-OpJ_I/edit?usp=sharing)
+- [Test-Report](https://docs.google.com/spreadsheets/d/15DvsSwbdiOV2GxDZa2_s12mTtFgFe9kLCO6h2-OpJ_I/edit?usp=sharing)
 - [Postman Collections](https://github.com/stassard/Postman-Collections)
 - [Automation Testing](https://github.com/stassard/Automation-Testing)
 - [SQL Queries]()
