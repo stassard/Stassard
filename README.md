@@ -89,6 +89,5 @@ I'm a Software Tester and I get pleasure from field of Quality Assurance and alw
 - [Test-Report](https://docs.google.com/spreadsheets/d/15DvsSwbdiOV2GxDZa2_s12mTtFgFe9kLCO6h2-OpJ_I/edit?usp=sharing)
 - [Postman Collections](https://github.com/stassard/Postman-Collections)
 - [Automation Testing](https://github.com/stassard/Automation-Testing)
-- [SQL Queries]()
 
 ---
